@@ -1,3 +1,6 @@
+// NAME:EVANS MAWIRA.
+// Reg NO:CT100/G/21515/24
+
 import java.util.Scanner;
 
 public class Employee {
